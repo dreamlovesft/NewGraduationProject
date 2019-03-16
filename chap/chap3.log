@@ -1,0 +1,247 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.6960 64-bit) (preloaded format=xelatex 2019.3.2)  12 MAR 2019 21:14
+entering extended mode
+**./chap3.tex
+(chap3.tex
+LaTeX2e <2018-12-01>
+! Undefined control sequence.
+l.1 \chapter
+            {自动加样系统硬件设计方案的确定}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \chapter{自
+              动加样系统硬件设计方案的确定}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 自 in font nullfont!
+Missing character: There is no 动 in font nullfont!
+Missing character: There is no 加 in font nullfont!
+Missing character: There is no 样 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 硬 in font nullfont!
+Missing character: There is no 件 in font nullfont!
+Missing character: There is no 设 in font nullfont!
+Missing character: There is no 计 in font nullfont!
+Missing character: There is no 方 in font nullfont!
+Missing character: There is no 案 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 确 in font nullfont!
+Missing character: There is no 定 in font nullfont!
+Missing character: There is no 自 in font nullfont!
+Missing character: There is no 动 in font nullfont!
+Missing character: There is no 加 in font nullfont!
+Missing character: There is no 样 in font nullfont!
+Missing character: There is no 控 in font nullfont!
+Missing character: There is no 制 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 统 in font nullfont!
+Missing character: There is no 包 in font nullfont!
+Missing character: There is no 括 in font nullfont!
+Missing character: There is no 一 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 控 in font nullfont!
+Missing character: There is no 制 in font nullfont!
+Missing character: There is no 器 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 若 in font nullfont!
+Missing character: There is no 干 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 功 in font nullfont!
+Missing character: There is no 能 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 块 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 控 in font nullfont!
+Missing character: There is no 制 in font nullfont!
+Missing character: There is no 器 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+Missing character: There is no 单 in font nullfont!
+Missing character: There is no 片 in font nullfont!
+Missing character: There is no 机 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 功 in font nullfont!
+Missing character: There is no 能 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 块 in font nullfont!
+Missing character: There is no 为 in font nullfont!
+Missing character: There is no 直 in font nullfont!
+Missing character: There is no 角 in font nullfont!
+Missing character: There is no 坐 in font nullfont!
+Missing character: There is no 标 in font nullfont!
+Missing character: There is no 系 in font nullfont!
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no 三 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 方 in font nullfont!
+Missing character: There is no 向 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 步 in font nullfont!
+Missing character: There is no 进 in font nullfont!
+Missing character: There is no 电 in font nullfont!
+Missing character: There is no 机 in font nullfont!
+Missing character: There is no 运 in font nullfont!
+Missing character: There is no 动 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 块 in font nullfont!
+Missing character: There is no 、 in font nullfont!
+Missing character: There is no 三 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 位 in font nullfont!
+Missing character: There is no 置 in font nullfont!
+Missing character: There is no 传 in font nullfont!
+Missing character: There is no 感 in font nullfont!
+Missing character: There is no 器 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 块 in font nullfont!
+Missing character: There is no 、 in font nullfont!
+Missing character: There is no 加 in font nullfont!
+Missing character: There is no 样 in font nullfont!
+Missing character: There is no 机 in font nullfont!
+Missing character: There is no 构 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 液 in font nullfont!
+Missing character: There is no 位 in font nullfont!
+Missing character: There is no 传 in font nullfont!
+Missing character: There is no 感 in font nullfont!
+Missing character: There is no 器 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 块 in font nullfont!
+Missing character: There is no 和 in font nullfont!
+Missing character: There is no 步 in font nullfont!
+Missing character: There is no 进 in font nullfont!
+Missing character: There is no 电 in font nullfont!
+Missing character: There is no 机 in font nullfont!
+Missing character: There is no 驱 in font nullfont!
+Missing character: There is no 动 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 块 in font nullfont!
+Missing character: There is no 、 in font nullfont!
+Missing character: There is no 清 in font nullfont!
+Missing character: There is no 洗 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 块 in font nullfont!
+Missing character: There is no 等 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 三 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 步 in font nullfont!
+Missing character: There is no 进 in font nullfont!
+Missing character: There is no 电 in font nullfont!
+Missing character: There is no 机 in font nullfont!
+Missing character: There is no 运 in font nullfont!
+Missing character: There is no 动 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 块 in font nullfont!
+Missing character: There is no 在 in font nullfont!
+Missing character: There is no 驱 in font nullfont!
+Missing character: There is no 动 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 块 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 作 in font nullfont!
+Missing character: There is no 用 in font nullfont!
+Missing character: There is no 下 in font nullfont!
+Missing character: There is no 实 in font nullfont!
+Missing character: There is no 现 in font nullfont!
+Missing character: There is no 了 in font nullfont!
+Missing character: There is no 在 in font nullfont!
+Missing character: There is no 三 in font nullfont!
+Missing character: There is no 维 in font nullfont!
+Missing character: There is no 空 in font nullfont!
+Missing character: There is no 间 in font nullfont!
+Missing character: There is no 内 in font nullfont!
+Missing character: There is no 任 in font nullfont!
+Missing character: There is no 意 in font nullfont!
+Missing character: There is no 位 in font nullfont!
+Missing character: There is no 置 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 定 in font nullfont!
+Missing character: There is no 位 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 位 in font nullfont!
+Missing character: There is no 置 in font nullfont!
+Missing character: There is no 传 in font nullfont!
+Missing character: There is no 感 in font nullfont!
+Missing character: There is no 器 in font nullfont!
+Missing character: There is no 使 in font nullfont!
+Missing character: There is no 得 in font nullfont!
+Missing character: There is no 检 in font nullfont!
+Missing character: There is no 测 in font nullfont!
+Missing character: There is no 机 in font nullfont!
+Missing character: There is no 械 in font nullfont!
+Missing character: There is no 臂 in font nullfont!
+Missing character: There is no 复 in font nullfont!
+Missing character: There is no 位 in font nullfont!
+Missing character: There is no 情 in font nullfont!
+Missing character: There is no 况 in font nullfont!
+Missing character: There is no 以 in font nullfont!
+Missing character: There is no 及 in font nullfont!
+Missing character: There is no 防 in font nullfont!
+Missing character: There is no 止 in font nullfont!
+Missing character: There is no 机 in font nullfont!
+Missing character: There is no 械 in font nullfont!
+Missing character: There is no 臂 in font nullfont!
+Missing character: There is no 在 in font nullfont!
+Missing character: There is no 运 in font nullfont!
+Missing character: There is no 动 in font nullfont!
+Missing character: There is no 过 in font nullfont!
+Missing character: There is no 程 in font nullfont!
+Missing character: There is no 中 in font nullfont!
+Missing character: There is no 发 in font nullfont!
+Missing character: There is no 生 in font nullfont!
+Missing character: There is no 干 in font nullfont!
+Missing character: There is no 涉 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 液 in font nullfont!
+Missing character: There is no 位 in font nullfont!
+Missing character: There is no 传 in font nullfont!
+Missing character: There is no 感 in font nullfont!
+Missing character: There is no 器 in font nullfont!
+Missing character: There is no 检 in font nullfont!
+Missing character: There is no 测 in font nullfont!
+Missing character: There is no 加 in font nullfont!
+Missing character: There is no 样 in font nullfont!
+Missing character: There is no 机 in font nullfont!
+Missing character: There is no 构 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 达 in font nullfont!
+Missing character: There is no 液 in font nullfont!
+Missing character: There is no 面 in font nullfont!
+Missing character: There is no 以 in font nullfont!
+Missing character: There is no 下 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 位 in font nullfont!
+Missing character: There is no 置 in font nullfont!
+)
+! Emergency stop.
+<*> ./chap3.tex
+               
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 427748
+ 67 string characters out of 3152871
+ 63491 words of memory out of 3000000
+ 4142 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 18i,1n,12p,225b,56s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

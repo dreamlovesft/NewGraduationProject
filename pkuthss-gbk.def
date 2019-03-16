@@ -1,0 +1,48 @@
+% Peking University dissertation document class
+%
+% Copyright (c) 2008-2009 solvethis
+% Copyright (c) 2010-2013,2015 Casper Ti. Vector
+%
+% This work may be distributed and/or modified under the conditions of the
+% LaTeX Project Public License, either version 1.3 of this license or (at
+% your option) any later version.
+% The latest version of this license is in
+%   https://www.latex-project.org/lppl.txt
+% and version 1.3 or later is part of all distributions of LaTeX version
+% 2005/12/01 or later.
+%
+% This work has the LPPL maintenance status `maintained'.
+% The current maintainer of this work is Casper Ti. Vector.
+%
+% This work consists of the following files:
+%   pkuthss.cls
+%   pkuthss-gbk.def
+%   pkuthss-utf8.def
+%   pkulogo.eps
+%   pkuword.eps
+
+\ProvidesFile{pkuthss-gbk.def}
+	[2017/03/01 v1.7.4 Labels and captions in GBK encoding
+		for the pkuthss document class]
+
+\def\label@ctitle{ÌâÄ¿£º}
+\def\label@cauthor{ÐÕ\hphantom{ºº×Ö}Ãû£º}
+\def\label@studentid{Ñ§\hphantom{ºº×Ö}ºÅ£º}
+\def\label@school{Ôº\hphantom{ºº×Ö}Ïµ£º}
+\def\label@cmajor{×¨\hphantom{ºº×Ö}Òµ£º}
+\def\label@direction{ÑÐ¾¿·½Ïò£º}
+\def\label@cmentor{µ¼\hphantom{ºº×Ö}Ê¦£º}
+\def\label@ementor{Directed by\ }
+\def\label@ckeywords{¹Ø¼ü´Ê£º}
+\def\label@ekeywords{KEYWORDS:\ }
+
+\def\titlepagename{·âÃæ}
+\def\cuniversity{±±¾©´óÑ§}
+\def\euniversity{Peking University}
+\def\cthesisname{²©Ê¿ÑÐ¾¿ÉúÑ§Î»ÂÛÎÄ}
+\def\ethesisname{Doctor Thesis}
+\def\cabstractname{ÕªÒª}
+\def\eabstractname{ABSTRACT}
+
+\endinput
+% vim:ft=tex:ts=2:sw=2

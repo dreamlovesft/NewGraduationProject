@@ -1,0 +1,31 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[1] Config.pm:307> INFO - Logfile is 'thesis.blg'
+[115] biber-MSWIN64:315> INFO - === 
+[216] Biber.pm:371> INFO - Reading 'thesis.bcf'
+[593] Biber.pm:889> INFO - Found 19 citekeys in bib section 0
+[652] Biber.pm:4093> INFO - Processing section 0
+[700] Biber.pm:4254> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[710] bibtex.pm:1523> INFO - LaTeX decoding ...
+[814] bibtex.pm:1340> INFO - Found BibTeX data source 'thesis.bib'
+[834] Utils.pm:193> WARN - year field '2012-09' in entry 'bib2' is not an integer - this will probably not sort properly.
+[849] Utils.pm:193> WARN - year field '2009-12' in entry 'bib1' is not an integer - this will probably not sort properly.
+[860] Utils.pm:193> WARN - year field '2016-05' in entry 'bib3' is not an integer - this will probably not sort properly.
+[870] Utils.pm:193> WARN - year field '2015-12' in entry 'bib8' is not an integer - this will probably not sort properly.
+[879] Utils.pm:193> WARN - year field '2013-04' in entry 'bib9' is not an integer - this will probably not sort properly.
+[889] Utils.pm:193> WARN - year field '1998-12' in entry 'bib4' is not an integer - this will probably not sort properly.
+[898] Utils.pm:193> WARN - year field '2011-04-27' in entry 'bib5' is not an integer - this will probably not sort properly.
+[908] Utils.pm:193> WARN - year field '2016-06' in entry 'bib7' is not an integer - this will probably not sort properly.
+[918] Utils.pm:193> WARN - year field '2011-01' in entry 'bib12' is not an integer - this will probably not sort properly.
+[938] Utils.pm:193> WARN - year field '2010-04' in entry 'bib10' is not an integer - this will probably not sort properly.
+[957] Utils.pm:193> WARN - year field '2014-04' in entry 'bib13' is not an integer - this will probably not sort properly.
+[967] Utils.pm:193> WARN - year field '2017-05' in entry 'bib15' is not an integer - this will probably not sort properly.
+[998] Utils.pm:193> WARN - year field '2011-09-08' in entry 'bib16' is not an integer - this will probably not sort properly.
+[1016] Utils.pm:193> WARN - I didn't find a database entry for 'test-en' (section 0)
+[1016] Utils.pm:193> WARN - I didn't find a database entry for 'test-zh' (section 0)
+[1092] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1093] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1093] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1094] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[1132] bbl.pm:636> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[1150] bbl.pm:739> INFO - Output to thesis.bbl
+[1161] Biber.pm:110> INFO - WARNINGS: 15

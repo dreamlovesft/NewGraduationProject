@@ -1,0 +1,59 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}序言}{1}{chapter.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}研究背景}{1}{section.1.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}自动生化分析仪国内外研究现状}{1}{section.1.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}论文研究意义及内容}{2}{section.1.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}自动加样系统总体方案的确定}{4}{chapter.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}自动加样系统的分析}{4}{section.2.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}加样机构的选定}{4}{section.2.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}自动加样系统机械臂的设计}{7}{chapter.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}加样机械臂结构类型的选定}{7}{section.3.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}驱动方式的选定}{9}{section.3.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}传动方式选定}{10}{section.3.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}加样机械臂机械结构的设计}{11}{section.3.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}自动加样系统控制方案的确定}{12}{chapter.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}总体控制系统的确定}{12}{section.4.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}步进电机类型的选择}{12}{section.4.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}步进电机的细分控制}{14}{section.4.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}步进电机的驱动控制分析}{15}{section.4.4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}液位检测控制分析}{16}{section.4.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}自动加样系统硬件设计方案的确定}{18}{chapter.5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}控制器的选型}{18}{section.5.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}步进电机的驱动电路}{19}{section.5.2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}液位检测模块电路}{21}{section.5.3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}自动加样系统软件设计方案的确定}{23}{chapter.6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}加样系统程序结构设计}{23}{section.6.1}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}论文结论与展望}{24}{chapter.7}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{参考文献}{25}{appendix*.27}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}附件}{26}{appendix.A}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{致谢}{27}{appendix*.28}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{中北大学学位论文原创性声明和使用授权说明}{28}{appendix*.29}% 
